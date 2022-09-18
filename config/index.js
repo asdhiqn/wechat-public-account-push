@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "olcwm6FnKC6X5yvHPzciSaSlAEoQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "CinX4w-nik_AacYO0BtrDn539KsQ_N_KXulknwE-U04",
+      useTemplateId: "fbxs9_u5O2k34JnT184eUFjZAZrB_Bicl_4RmlVEWIs",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -88,8 +88,8 @@ export const config = {
         {"keyword": "love_day", date: "2022-05-16"},
         // 结婚纪念日
         {"keyword": "marry_day", date: "2022-09-09"},
-        // 退伍日
-        {"keyword": "ex_day", date: "2022-09-10"},
+        // 例假日
+        {"keyword": "ex_day", date: "2022-10-21"},
       ]
     },
     {
@@ -137,7 +137,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "CinX4w-nik_AacYO0BtrDn539KsQ_N_KXulknwE-U04",
+  CALLBACK_TEMPLATE_ID: "fbxs9_u5O2k34JnT184eUFjZAZrB_Bicl_4RmlVEWIs",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
