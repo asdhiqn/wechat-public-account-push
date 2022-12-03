@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "olcwm6LMHkrJUe3voPR6ANINnTIk",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "ZfjtXGVa7QQEvWwsyhqZfjBFEwCt0DM6g7FkyYDC2zU",
+      useTemplateId: "vwLb-YIpgZ8nvcctoajLHbYyw_EmE68huUoiUCG1uXc",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -137,7 +137,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "ZfjtXGVa7QQEvWwsyhqZfjBFEwCt0DM6g7FkyYDC2zU",
+  CALLBACK_TEMPLATE_ID: "vwLb-YIpgZ8nvcctoajLHbYyw_EmE68huUoiUCG1uXc",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -207,11 +207,11 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-09-08"},
+    {"keyword": "love_day", date: "2021-03-28"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-09-09"},
+    {"keyword": "marry_day", date: "2023-01-01"},
     // 退伍日
-    {"keyword": "ex_day", date: "2022-09-10"},
+    {"keyword": "ex_day", date: "2023-02-16"},
     // 你可以不断按格式往下增加
     // ...
   ],
